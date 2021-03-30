@@ -52,4 +52,6 @@ Card.propTypes = {
 	eye_color: PropTypes.string,
 	url: PropTypes.string
 };
+
+
 export default Card;

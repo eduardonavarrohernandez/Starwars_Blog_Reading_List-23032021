@@ -53,4 +53,5 @@ CardPlanetas.propTypes = {
 	terrain: PropTypes.string,
 	url: PropTypes.string
 };
+
 export default CardPlanetas;

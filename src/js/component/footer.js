@@ -7,4 +7,5 @@ export const Footer = () => (
 			<a href="http://www.4geeksacademy.com">4Geeks Academy</a>
 		</p>
 	</footer>
+
 );
